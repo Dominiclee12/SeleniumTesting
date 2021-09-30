@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites version="1">
+  <testsuite name="DemoBlaze Website" tests="2" failures="0" errors="0" timestamp="2021-09-29T10:25:18.002Z" time="8.631">
+    <testcase classname="DemoBlaze Website" name="DemoBlaze Website Add to Cart" time="7.171"/>
+    <testcase classname="DemoBlaze Website" name="DemoBlaze Website Sign Up" time="1.46"/>
+  </testsuite>
+</testsuites>
